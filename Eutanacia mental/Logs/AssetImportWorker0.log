@@ -1,0 +1,305 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.985; Version 2004; 64bit' Language: 'es' Physical Memory: 8081 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Huesillo/Desktop/Eutanacia mental
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59731
+Successfully changed project path to: C:/Users/Huesillo/Desktop/Eutanacia mental
+C:/Users/Huesillo/Desktop/Eutanacia mental
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Huesillo/Desktop/Eutanacia mental/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6230
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001872 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1429 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 67.4 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 1859.
+Total: 1.904600 ms (FindLiveObjects: 0.167500 ms CreateObjectMapping: 0.051600 ms MarkObjects: 1.607900 ms  DeleteObjects: 0.076300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Objetos/cama/Old_Bed.obj
+  artifactKey: Guid(9da21b83bb9ba304984f48d92c428cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/cama/Old_Bed.obj using Guid(9da21b83bb9ba304984f48d92c428cea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c955f943c85e8b78274b854f1ab58ab') in 0.215883 seconds
+  Import took 0.253206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.146610 seconds.
+  path: Assets/Objetos/cama/cabinet.obj
+  artifactKey: Guid(a936e0902bbcd8548abad1b9e79edef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/cama/cabinet.obj using Guid(a936e0902bbcd8548abad1b9e79edef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84109a8a43fe507aeb316d0587aeafab') in 0.457476 seconds
+  Import took 0.488851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 375.285954 seconds.
+  path: Assets/Objetos/MUEBLE
+  artifactKey: Guid(c4ab286bdeaf6c04299b6a2f4cfff453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE using Guid(c4ab286bdeaf6c04299b6a2f4cfff453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43a5b11c58fd8ca4203ee9f503bd4c4') in 0.010494 seconds
+  Import took 0.092036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.427891 seconds.
+  path: Assets/Objetos/MUEBLE/cabinet.FBX
+  artifactKey: Guid(90bdfaea6ce9e5e4fb97e1dd30d48251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/cabinet.FBX using Guid(90bdfaea6ce9e5e4fb97e1dd30d48251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3930b4b7e86b87c0c0f4174045e12933') in 0.191344 seconds
+  Import took 0.194619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.869251 seconds.
+  path: Assets/Objetos/MUEBLE/Textures
+  artifactKey: Guid(97ca97835d6f5ac47b39f8f7dff11bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures using Guid(97ca97835d6f5ac47b39f8f7dff11bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc2736693193ba7ca172750492b165b') in 0.007457 seconds
+  Import took 0.349230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.571091 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal
+  artifactKey: Guid(09f504c3137efe64da81e1e4c7188085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal using Guid(09f504c3137efe64da81e1e4c7188085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97028e91731aa40cca1c798902ac7c64') in 0.026057 seconds
+  Import took 0.028398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045650 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_AlbedoTransparency.png
+  artifactKey: Guid(b2a61167f08f3e64fa4da25fef5f31ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_AlbedoTransparency.png using Guid(b2a61167f08f3e64fa4da25fef5f31ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ddcae9fd121dc0849f973b2af38e226') in 0.109200 seconds
+  Import took 0.112891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_MetallicSmoothness.png
+  artifactKey: Guid(056f1372a41eba141bc2c14b57d2df10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_MetallicSmoothness.png using Guid(056f1372a41eba141bc2c14b57d2df10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ebd998ebcf393059a7aaf56e140398') in 0.092136 seconds
+  Import took 1.471002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_Normal.png
+  artifactKey: Guid(331d213623e71ee48bc82363c040383f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/cabinet_Cabinet_Normal.png using Guid(331d213623e71ee48bc82363c040383f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7118eb0a8bab157437e9a706babcef9') in 0.014666 seconds
+  Import took 0.017125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.339377 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnitySpec
+  artifactKey: Guid(b3da973789de7c049abe7e208f0f3699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnitySpec using Guid(b3da973789de7c049abe7e208f0f3699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce77a3067196100384ce10f42238ba2') in 11.152084 seconds
+  Import took 11.230242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_Normal.png
+  artifactKey: Guid(06dc8eb2eced13c41b31175139f649f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_Normal.png using Guid(06dc8eb2eced13c41b31175139f649f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2306c483dcee1108fdbca7cddf77f4') in 0.020303 seconds
+  Import took 0.023346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_OcclusionRoughnessMetallic.png
+  artifactKey: Guid(9292819e36a5c3849a4ce5c3afde32eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_OcclusionRoughnessMetallic.png using Guid(9292819e36a5c3849a4ce5c3afde32eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3527900699b73c0b991aa47a82e1c4') in 0.062222 seconds
+  Import took 0.151604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray
+  artifactKey: Guid(50cf5ab0ca61a134c9345d006d1a1ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray using Guid(50cf5ab0ca61a134c9345d006d1a1ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2115581c911f23bc195bda3a5e46dad2') in 0.008487 seconds
+  Import took 0.070516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Reflection.png
+  artifactKey: Guid(d31138be75ec42d43b9098c56921f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Reflection.png using Guid(d31138be75ec42d43b9098c56921f8d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f44597e356a7dbc80fc019a17291080') in 0.013964 seconds
+  Import took 0.017492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Height.png
+  artifactKey: Guid(4d36dd948bef1194bba0c154da9f57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Height.png using Guid(4d36dd948bef1194bba0c154da9f57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d941dd1fa8e84f7e38c0551e46a6c7d') in 0.020379 seconds
+  Import took 0.028397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_ior.png
+  artifactKey: Guid(28cc23ab6e86b6c4aa7512b52d34ac7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_ior.png using Guid(28cc23ab6e86b6c4aa7512b52d34ac7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e1b002bad66a2372b3aff9117c3870') in 0.029114 seconds
+  Import took 0.032336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Diffuse.png
+  artifactKey: Guid(2d2d60a6803158f48a42c980daa9ffdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Diffuse.png using Guid(2d2d60a6803158f48a42c980daa9ffdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635f78f288d9f66c56a1a3088a2b94f8') in 0.022197 seconds
+  Import took 0.025925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Glossiness.png
+  artifactKey: Guid(495cac269e1fdae498fb69e62ea8448d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Glossiness.png using Guid(495cac269e1fdae498fb69e62ea8448d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c9de315b17e2f9b808c5a7c6f72e19') in 0.024113 seconds
+  Import took 0.074990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Unreal
+  artifactKey: Guid(d918502d3f9acc541b62f30dd4bfee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Unreal using Guid(d918502d3f9acc541b62f30dd4bfee2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935d2ecce54890af763ee5504fbcf96d') in 0.024002 seconds
+  Import took 0.057788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Normal.png
+  artifactKey: Guid(4e01706172af1164981846da64e7c3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Normal.png using Guid(4e01706172af1164981846da64e7c3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3521481fd8b34bf8a469539795ab90') in 0.023168 seconds
+  Import took 0.113629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_BaseColor.png
+  artifactKey: Guid(72d53899375c8ae4f8a466d80cbdcd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Unreal/cabinet_Cabinet_BaseColor.png using Guid(72d53899375c8ae4f8a466d80cbdcd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60117c35fdd9732269da46e8969cad82') in 0.044085 seconds
+  Import took 0.062509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Normal.png
+  artifactKey: Guid(4e01706172af1164981846da64e7c3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/cabinet_Cabinet_Normal.png using Guid(4e01706172af1164981846da64e7c3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3521481fd8b34bf8a469539795ab90') in 0.023196 seconds
+  Import took 0.027864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.670187 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/Materials
+  artifactKey: Guid(f094e3ad5ae3cce4798d766e6c6d06b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/Materials using Guid(f094e3ad5ae3cce4798d766e6c6d06b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3a72d5e150d8158d29acb716362d4d') in 0.002975 seconds
+  Import took 0.006531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.748636 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/Vray/Materials/cabinet_Cabinet_Diffuse.mat
+  artifactKey: Guid(ea5f3f27ffc21994c887e80393f06f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/Vray/Materials/cabinet_Cabinet_Diffuse.mat using Guid(ea5f3f27ffc21994c887e80393f06f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89491f07233aad2e40ea1e5ed75bfad8') in 1.672454 seconds
+  Import took 1.741853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.184754 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials
+  artifactKey: Guid(702e755c1252a3145b880ff8e14f74e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials using Guid(702e755c1252a3145b880ff8e14f74e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e35b3ad5036c0cb05d76fef738bfdb') in 0.002594 seconds
+  Import took 0.039025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.381481 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials/cabinet_Cabinet_MetallicSmoothness.mat
+  artifactKey: Guid(3efefb12d425dd9499e2273c01b92284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials/cabinet_Cabinet_MetallicSmoothness.mat using Guid(3efefb12d425dd9499e2273c01b92284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334d4942f92a74a07f89996e94e475cf') in 0.089748 seconds
+  Import took 0.092554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials/cabinet_Cabinet_Normal.mat
+  artifactKey: Guid(4d7b74e13ba080240b6a62fc7ffd0307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objetos/MUEBLE/Textures/UnityMetal/Materials/cabinet_Cabinet_Normal.mat using Guid(4d7b74e13ba080240b6a62fc7ffd0307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab700d24a98f7378a4b1de537e6e82f0') in 0.019646 seconds
+  Import took 0.059441 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002263 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1411 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.7 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1906.
+Total: 1.883200 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.589700 ms  DeleteObjects: 0.056200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
